@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidKnowledge</string>
+    <string name="title">Android知识园地</string>
+    <string name="useful_frame">常用框架</string>
+    <string name="the_third">第三方</string>
+    <string name="custom_view">自定义控件</string>
+    <string name="other">其他</string>
+</resources>
